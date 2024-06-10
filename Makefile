@@ -1,0 +1,4 @@
+dev:
+	nodemon
+
+build:
